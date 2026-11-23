@@ -17,7 +17,6 @@ spec:
   servers:
     - name: rh-intranet
       zones:
-        - anl.eng.rdu2.dc.redhat.com
         - app.intlab.redhat.com
         - arm.eng.rdu2.redhat.com
         - brewhub.engineering.redhat.com
